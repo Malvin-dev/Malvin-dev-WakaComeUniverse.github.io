@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 0px;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
@@ -183,6 +183,7 @@
 .book .submit:hover{
     width: 170px;
 }
+
 @media (max-width:765px){
     .book{
         padding: 0;
@@ -191,6 +192,7 @@
         margin-top: 20px;
     }
 }
+
 /* Section Book End */
 
 
@@ -357,4 +359,7 @@
 .social-links i:hover{
     background: #ffa500;
 }
+
 /* Footer End */
+
+
